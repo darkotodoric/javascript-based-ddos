@@ -8,7 +8,7 @@ JavaScript-based DDoS is an exceptionally perilous threat, as malevolent actors 
 
 What makes this threat particularly insidious is that it renders traditional IP blocking methods nearly ineffective. Since the traffic originates from real users, it becomes exceedingly challenging to distinguish between legitimate visitors and malicious agents.
 
-Furthermore, when considering a website with **10,000** visitors in the span of an hour, the potential impact becomes staggering. This influx of users could result in a mind-boggling **3,600,000,000** requests directed towards the site in just one hour. This highlights the fact that even with a relatively modest volume of visitors, this type of attack can unleash a torrent of requests, causing significant damage.
+Furthermore, when considering a website with **10,000** visitors in an hour, the potential impact becomes staggering. This influx of users could result in a mind-boggling **3,600,000,000** requests directed towards the site in just one hour. This highlights the fact that even with a relatively modest volume of visitors, this type of attack has the potential to devastate server infrastructures.
 
 ![example.png](example.png)
 
