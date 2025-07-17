@@ -4,9 +4,9 @@ JavaScript-based DDoS is a type of DDoS attack where JavaScript is used to gener
 ![image.jpg](https://raw.githubusercontent.com/darkotodoric/javascript-based-ddos/13853f3/image.jpg)
 
 ## Why it's dangerous?
-JavaScript-based DDoS is an exceptionally perilous threat, as malevolent actors can inject such scripts into already compromised websites, effectively utilizing their traffic as a potent weapon for executing devastating DDoS attacks. This presents a deeply alarming scenario since, unbeknownst to the proprietors of compromised sites, all visitors unwittingly contribute to the assault.
+JavaScript-based DDoS is a particularly dangerous threat, as malicious actors can inject such scripts into already compromised websites, effectively utilizing their traffic as a potential weapon for executing massive DDoS attacks.
 
-What makes this threat particularly insidious is that it renders traditional IP blocking methods nearly ineffective. Since the traffic originates from real users, it becomes exceedingly challenging to distinguish between legitimate visitors and malicious agents.
+What makes this threat particularly dangerous is that it traditional IP blocking methods are nearly ineffective. Since the traffic originates from real users, it becomes exceedingly challenging to distinguish between legitimate visitors and malicious agents.
 
 Furthermore, when considering a website with **10,000** visitors in an hour, the potential impact becomes staggering. This influx of users could result in a mind-boggling **3,600,000,000** requests directed towards the site in just one hour. This highlights the fact that even with a relatively modest volume of visitors, this type of attack has the potential to devastate server infrastructures.
 
